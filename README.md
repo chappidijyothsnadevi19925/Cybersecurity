@@ -1,6 +1,6 @@
 # Cybersecurity
 #Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-Linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 [Brief Introduction]
 
 I am Jyothsna, Aspiring cybersecurity professional transitioning from SAP testing, with hands-on experience in penetration testing tools and security assessments.
@@ -14,13 +14,13 @@ Seeking an entry-level role in cybersecurity where I can apply my skills in pene
 [Provide skills and associated project.Make sure to hyperlink the project]
 |Skill                                           |Associated Project                              |
 |------------------------------------------------|------------------------------------------------|
-| Nmap & Enumeration	                           |   Basic Pentesting (TryHackMe)                 |
-| Burp Suite & Web App Testing	                 |   OWASP Juice Shop Exploitation                |
+| Nmap & Enumeration	                            |   Basic Pentesting (TryHackMe)                 |
+| Burp Suite & Web App Testing	                  |   OWASP Juice Shop Exploitation                |
 | Vulnerability Scanning (Nessus)	               |   Vulnerability Assessment of GLPI Application |
-| Privilege Escalation (Linux)	                 |   RootMe Machine (TryHackMe)                   |
+| Privilege Escalation (Linux)	                  |   RootMe Machine (TryHackMe)                   |
 | Packet Analysis (Wireshark)	                   |   PCAP Analysis Lab                            |
 | SQL Injection & XSS	OWASP                      |   Juice Shop Exploitation                      |
-| Report Writing	                               |   Pentest Report Example                       |
+| Report Writing	                                |   Pentest Report Example                       |
 
 ## Skills & Tools
 Nmap · Nessus · Burp Suite · Wireshark · OWASP ZAP · Linux · Bash · Reporting · SAST · DAST · Password Cracking tools
@@ -71,4 +71,5 @@ VirusTotal to detect malware payloads and phishing indicators
 awareness and improve secure development practices
 
 ## Contact
-[www.linkedin.com/in/jyothsna-devi-chappidi] · [Email or GitHub profile link]
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-Linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[www.linkedin.com/in/jyothsna-devi-chappidi] · [https://github.com/chappidijyothsnadevi19925/Cybersecurity/]
